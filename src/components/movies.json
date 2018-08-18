@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "title": "Terminator",
+            "year": "1980",
+            "duration": "2:20hs"
+        },
+        {
+            "title": "Armaggedon",
+            "year": "1995",
+            "duration": "2:10hs"
+        },
+        {
+            "title": "Soy Leyenda",
+            "year": "2004",
+            "duration": "1:55hs"
+        }
+    ]
+}
